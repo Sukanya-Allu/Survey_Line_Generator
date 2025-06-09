@@ -1,5 +1,5 @@
 streamlit
 numpy
 shapely
-pyproj
 simplekml
+pyproj==3.6.1 
