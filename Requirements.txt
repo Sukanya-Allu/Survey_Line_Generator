@@ -3,3 +3,4 @@ numpy
 shapely
 simplekml
 pyproj==3.6.1 
+geopandas
